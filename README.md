@@ -13,3 +13,5 @@ the collection starts, and the final number of students in the queue also needs 
 
 We analyzed the package retrieval data provided by administration as well as the data we collected based on our observations of RPCC. Through our analysis of the package retrieval data, we obtained detailed frequency data that showed us each mailroom’s busiest days in the school year. Due to the large volume of frequency graphs for this analysis, they are all listed in the Appendix at the bottom of this document.
 We also analyzed the data we collected by observing the queue at RPCC during a busy shift on Monday 5pm-7pm. This gave us insight into the volume and pattern of student arrival and departure activity during busy shifts. Our statistical analysis also includes other values of interest, such as the median for service time, and is shown below.
+
+![Availity Research Poster](Histogram.png)
